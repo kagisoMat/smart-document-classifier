@@ -8,9 +8,9 @@
 
 An AI-powered document classification system that automatically categorizes text into 6 categories using machine learning. Built with FastAPI backend and React frontend.
 
-![Demo](https://via.placeholder.com/800x400/0D1117/FFFFFF?text=Smart+Document+Classifier+Demo)
+![Demo](https://smartclassifier.netlify.app/)
 
-## ✨ Features
+## Features
 
 - 🧠 **AI-Powered Classification** - ML model trained on 90+ text samples
 - ⚡ **Real-time Processing** - Instant classification with confidence scores
