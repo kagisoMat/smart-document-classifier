@@ -1,5 +1,5 @@
-// frontend/src/App.js - WITH FILE UPLOAD FUNCTIONALITY
-import React, { useState, useEffect, useRef } from 'react';
+// frontend/src/App.js - FIXED VERSION
+import React, { useState } from 'react';
 import axios from 'axios';
 import './App.css';
 
@@ -26,7 +26,7 @@ function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
   const [selectedExample, setSelectedExample] = useState(null);
   const [uploadedFileName, setUploadedFileName] = useState('');
-  const fileInputRef = useRef(null);
+  const fileInputRef = React.useRef(null);
 
   // Professional examples data
   const examples = {
@@ -246,7 +246,6 @@ function App() {
                   {/* File upload status */}
                   {uploadedFileName && (
                     <div className="upload-status">
-                      <span className="upload-icon">📄</span>
                       <span className="upload-filename">{uploadedFileName}</span>
                       <button 
                         onClick={clearText}
