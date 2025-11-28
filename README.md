@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Smart Document Classifier 🤖
+# Smart Document Classifier 
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org)
@@ -20,7 +19,7 @@ An AI-powered document classification system that automatically categorizes text
 - 🔧 **RESTful API** - Clean FastAPI backend with full documentation
 - 📊 **Multi-category Support** - Technology, Sports, Business, Politics, Entertainment, Science
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.9+
