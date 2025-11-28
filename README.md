@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 # Smart Document Classifier 🤖
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
-[![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org)
+[![React](https://img.shelds.io/badge/React-18.0+-blue.svg)](https://reactjs.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com)
 [![Machine Learning](https://img.shields.io/badge/ML-scikit--learn-orange.svg)](https://scikit-learn.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -20,7 +19,7 @@ An AI-powered document classification system that automatically categorizes text
 - 🔧 **RESTful API** - Clean FastAPI backend with full documentation
 - 📊 **Multi-category Support** - Technology, Sports, Business, Politics, Entertainment, Science
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.9+
